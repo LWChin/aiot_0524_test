@@ -31,7 +31,7 @@
 '''
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
 
-### Step 2 : 
+### Step 2 :
 
 
 
